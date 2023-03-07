@@ -38,3 +38,20 @@ for number in range(1,11) :
     cubes.append(cube)
 
 print(cubes)
+
+# min() max() and sum() can be performed on a list of numbers
+digits = [1,2,3,4,5,6,7,8,9]
+
+print(min(digits))
+print(max(digits))
+print(sum(digits))
+
+# List Comprehension
+
+squares = [value**2 for value in range(1,11)]
+print(squares)
+
+# another example
+digits = [1,2,3,4,5,6,7,8,9]
+arithmetic_progression = [(3*digit + 2) for digit in digits ]
+print(arithmetic_progression)

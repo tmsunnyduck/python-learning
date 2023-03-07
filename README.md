@@ -3,3 +3,5 @@
 I am using the book Python Crash Course, 3rd Edition by Eric Matthes
 
 try every excercise in the book, practice of various topics with accompanying programs is given in [python-crash-course](/python-crash-course)
+
+also, the exercise questions I find good are solved in [excersises](/excersises)

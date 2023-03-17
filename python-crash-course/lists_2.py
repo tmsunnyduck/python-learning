@@ -55,3 +55,11 @@ print(squares)
 digits = [1,2,3,4,5,6,7,8,9]
 arithmetic_progression = [(3*digit + 2) for digit in digits ]
 print(arithmetic_progression)
+
+# slicing a list
+players= ['Sachin','Virat','Rahul','Rohit']
+
+print(players[1:4]) # Works just like range, starts at index 1 till 3
+print(players[:4])
+print(players[3:])
+
